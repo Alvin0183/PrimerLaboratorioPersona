@@ -25,7 +25,7 @@ namespace Persona.Negocio
 
         public String Hablando(ClsPersona persona)
         {
-            return " La persona " + persona.Nombre + " de sexo " + persona.Sexo  + " comenzo a hablar ";
+            return " La persona " + persona.Nombre + " comenzo a hablar con Martin";
 
         }
 

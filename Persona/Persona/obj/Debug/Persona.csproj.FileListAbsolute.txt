@@ -5,3 +5,10 @@ C:\Users\Ariel2004\Documents\GitHub\PrimerLaboratorioPersona\Persona\Persona\obj
 C:\Users\Ariel2004\Documents\GitHub\PrimerLaboratorioPersona\Persona\Persona\obj\Debug\Persona.csproj.CoreCompileInputs.cache
 C:\Users\Ariel2004\Documents\GitHub\PrimerLaboratorioPersona\Persona\Persona\obj\Debug\Persona.exe
 C:\Users\Ariel2004\Documents\GitHub\PrimerLaboratorioPersona\Persona\Persona\obj\Debug\Persona.pdb
+C:\Users\Admin\Documents\GitHub\PrimerLaboratorioPersona\Persona\Persona\bin\Debug\Persona.exe.config
+C:\Users\Admin\Documents\GitHub\PrimerLaboratorioPersona\Persona\Persona\bin\Debug\Persona.exe
+C:\Users\Admin\Documents\GitHub\PrimerLaboratorioPersona\Persona\Persona\bin\Debug\Persona.pdb
+C:\Users\Admin\Documents\GitHub\PrimerLaboratorioPersona\Persona\Persona\obj\Debug\Persona.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\PrimerLaboratorioPersona\Persona\Persona\obj\Debug\Persona.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\PrimerLaboratorioPersona\Persona\Persona\obj\Debug\Persona.exe
+C:\Users\Admin\Documents\GitHub\PrimerLaboratorioPersona\Persona\Persona\obj\Debug\Persona.pdb

@@ -15,7 +15,7 @@ namespace Persona
             ClsPersona clspersona = new ClsPersona();
             NClsPersona nclspersona = new NClsPersona();
 
-            clspersona.Nombre = "Martin";
+            clspersona.Nombre = "Vincente";
             clspersona.Apellido = "Fernandez ";
             clspersona.Edad = 25  ;
             clspersona.Sexo = "Masculino";
